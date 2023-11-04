@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 ![Prisma-Editor](https://github.com/mohammed-bahumaish/prisma-editor/blob/main/apps/web/public/images/banner.png?raw=true)
 
 <div align="center">
